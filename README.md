@@ -1,4 +1,5 @@
 # College Gazebo Terrain
+<img width="1920" height="1080" alt="Screenshot from 2026-02-22 08-32-19" src="https://github.com/user-attachments/assets/587a575f-bdc8-48f3-8bde-fbe37986db8a" />
 
 This folder contains a 3D terrain generated using the Gazebo Terrain Generator.
 
